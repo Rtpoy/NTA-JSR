@@ -1,0 +1,82 @@
+ [
+    {
+        "id": 1,
+        "name": "Ноутбук Lenovo IdeaPad 1",
+        "price": 21999,
+        "article": 200323,
+        "color": "blue",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/0/2/02_ideapad_1_hero_front_facing_jd.jpg/f_auto"
+    },
+    {
+        "id": 2,
+        "name": "Ноутбук Lenovo IdeaPad Gaming 3",
+        "price": 29999,
+        "article": 200323,
+        "color": "black",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/z/q/zqn8vnvy.jpg/f_auto"
+    },
+    {
+        "id": 3,
+        "name": "Ноутбук Acer Aspire 3",
+        "price": 14999,
+        "article": 200323,
+        "color": "grey",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/n/x/nx.hs5eu.01y_5__1_1.jpg/f_auto"
+    },
+    {
+        "id": 4,
+        "name": "Ноутбук Asus X515JA",
+        "price": 18999,
+        "article": 200323,
+        "color": "grey",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/6/4/64301ad7c_178122_b_4.jpg/f_auto"
+    },
+    {
+        "id": 5,
+        "name": "Ноутбук  Acer Nitro 5",
+        "price": 31999,
+        "article": 200323,
+        "color": "black",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/u/0/u0663612_big_1_.jpg/f_auto"
+    },
+    {
+        "id": 6,
+        "name": "Ноутбук Acer Aspire 5",
+        "price": 20999,
+        "article": 200323,
+        "color": "black",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/a/c/acer-aspire-3-a315-43-wallpaper-logo-pure-silver-01_3_.jpg/f_auto"
+    },
+    {
+        "id": 7,
+        "name": "Ноутбук  Asus TUF Gaming",
+        "price": 34999,
+        "article": 200323,
+        "color": "black",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/6/1/616d3dbeda5ab4.94684474.jpg/f_auto"
+    },
+    {
+        "id": 8,
+        "name": "Ноутбук Acer Aspire 5",
+        "price": 20666,
+        "article": 200323,
+        "color": "blue",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/2/7/270010359_1_.jpg/f_auto"
+    },
+    {
+        "id": 9,
+        "name": "Ноутбук Lenovo Gaming 3",
+        "price": 35999,
+        "article": 200323,
+        "color": "black",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/0/2/02_ideapad_3i_15inch_hero_front_facing_jd_arctic_grey.jpg/f_auto"
+    },
+    {
+        "id": 10,
+        "name": "Ноутбук Lenovo IdeaPad 1 ",
+        "price": 14999,
+        "article": 200323,
+        "color": "black",
+        "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/j/c/jcb27soe.jpg/f_auto"
+    }
+ ]
